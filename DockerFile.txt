@@ -1,8 +1,0 @@
-FROM myubuntu:v2
-
-WORKDIR /app
-
-COPY . /app
-
-EXPOSE 4001
-~
